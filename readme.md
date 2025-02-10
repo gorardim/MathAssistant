@@ -29,7 +29,7 @@ Make sure you have the following installed:
 3. Create a [.env](http://_vscodecontentref_/0) file in the root directory and add your DeepSeek API key:
 
     ```env
-    DEEPSEEK_API_KEY=your-deepseek-api-key
+    cp .env.example .env
     ```
 
 ### Running the Project
